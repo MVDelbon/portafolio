@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "stack": "Stack",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Victoria Delbon",
+    "roles": [
+      "Full Stack Developer",
+      "Automation Engineer",
+      "Especialista en APIs",
+      "AI Workflow Builder"
+    ],
+    "description": "Construyo aplicaciones web escalables, automatizo workflows complejos e integro APIs potentes — desde sistemas CRM hasta soluciones impulsadas por IA.",
+    "cta_projects": "Ver Proyectos",
+    "cta_contact": "Contactar",
+    "available": "Disponible para nuevas oportunidades"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "subtitle": "Builder · Problem Solver · Entusiasta de la Automatización",
+    "p1": "Soy Desarrollador Full Stack con experiencia construyendo aplicaciones web de producción en sistemas CRM, plataformas en tiempo real y herramientas integradas con IA.",
+    "p2": "Mi trabajo conecta lógica de backend, experiencias frontend limpias y automatizaciones inteligentes — combinando el rendimiento de Go, la flexibilidad de React y herramientas como n8n para automatizar todo lo que se pueda automatizar.",
+    "p3": "Actualmente explorando la intersección de agentes de IA, orquestación de workflows y ecosistemas de APIs modernas como Meta y Google Ads.",
+    "highlights": [
+      "Full Stack con React & Go",
+      "Automatización con n8n",
+      "Integraciones API (Meta, Google Ads)",
+      "Workflows con IA"
+    ],
+    "stat_exp":   "años de exp.",
+
+    "stat_apis":  "integraciones API",
+    "stat_langs": "idiomas"
+  },
+  "stack": {
+    "title": "Stack Tecnológico",
+    "subtitle": "Tecnologías y herramientas con las que trabajo a diario",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Base de Datos",
+    "automation": "Automatización & Integraciones",
+    "ai": "IA & Herramientas Emergentes"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "subtitle": "Trayectoria profesional",
+    "job_title": "Full Stack Developer",
+    "job_company": "CRM & Plataforma Web",
+    "job_period": "2024 – Presente",
+    "job_description": "Desarrollo y mantenimiento de aplicaciones web empresariales usando React, Go y SQL Server. Enfocado en sistemas CRM, automatización de workflows e integraciones de API.",
+    "achievements_title": "Logros Destacados",
+    "achievements": [
+      "Construcción de interfaces dinámicas y componentes reutilizables en React",
+      "Desarrollo de servicios backend y APIs REST en Go de alto rendimiento",
+      "Implementación de módulos CRM con lógica de negocio compleja y reportes",
+      "Integración de Meta API y Google Ads para workflows de marketing automatizado",
+      "Construcción de pipelines de automatización con n8n conectando 10+ servicios externos",
+      "Desarrollo de plataforma webchat en tiempo real con WebSockets en Go",
+      "Implementación de sistemas de carga y gestión de archivos adjuntos",
+      "Optimización de queries SQL Server con mejoras de rendimiento de hasta un 60%"
+    ]
+  },
+  "projects": {
+    "title": "En lo que he trabajado",
+    "subtitle": "Sistemas y soluciones de mi trabajo profesional — herramientas empresariales construidas para necesidades reales de negocio.",
+    "internal_note": "Proyecto Interno / Empresarial",
+    "items": [
+      {
+        "title": "Plataforma CRM Empresarial",
+        "description": "Sistema CRM completo con módulos personalizados, roles de usuario, gestión de pipeline, seguimiento de actividades y dashboards de reportes.",
+        "stack": ["React", "Go", "SQL Server", "REST API"],
+        "highlights": [
+          "Módulos de pipeline de ventas y gestión de contactos",
+          "Control de acceso basado en roles con soporte multi-tenant",
+          "Notificaciones en tiempo real y feed de actividades",
+          "Reportes avanzados con dashboards exportables"
+        ],
+        "category": "Sistema CRM"
+      },
+      {
+        "title": "Suite de Integración de Marketing",
+        "description": "Dashboard unificado integrando Meta (Facebook/Instagram) y Google Ads API para gestión automatizada de campañas y reportes consolidados.",
+        "stack": ["Go", "React", "Meta API", "Google Ads API", "n8n"],
+        "highlights": [
+          "Autenticación OAuth 2.0 con Meta y Google",
+          "Reportes automáticos de rendimiento de campañas",
+          "Workflows n8n para sincronización y alertas programadas",
+          "Dashboard de métricas unificado entre plataformas"
+        ],
+        "category": "Integración API"
+      },
+      {
+        "title": "Motor de Automatización con IA",
+        "description": "Plataforma de workflows construida sobre n8n conectando sistemas internos con procesamiento LLM para clasificación y decisiones automatizadas.",
+        "stack": ["n8n", "Go", "REST APIs", "LLM APIs"],
+        "highlights": [
+          "15+ nodos de integración personalizados",
+          "Clasificación y enrutamiento de datos con LLM",
+          "Triggers basados en eventos desde CRM y webhooks",
+          "Dashboard de monitoreo para salud y errores de workflows"
+        ],
+        "category": "Automatización IA"
+      },
+      {
+        "title": "Plataforma Webchat en Tiempo Real",
+        "description": "Widget de chat embebible con backend Go WebSockets, mensajería en tiempo real, archivos adjuntos e integración nativa con CRM.",
+        "stack": ["Go", "WebSockets", "React", "SQL Server"],
+        "highlights": [
+          "Conexiones WebSocket de baja latencia en Go",
+          "Widget embebible con theming personalizable",
+          "Soporte para archivos e imágenes adjuntas",
+          "Historial de chat vinculado a contactos del CRM"
+        ],
+        "category": "Real-time Platform"
+      },
+      {
+        "title": "Sistema de Gestión de Archivos",
+        "description": "Sistema de carga y gestión multi-formato con extracción de metadatos, generación de previsualizaciones y control de acceso por archivo.",
+        "stack": ["Go", "React", "SQL Server"],
+        "highlights": [
+          "Soporte para documentos, imágenes y datos estructurados",
+          "Extracción e indexación automática de metadatos",
+          "Generación de previsualizaciones para formatos comunes",
+          "Control de acceso y registro de auditoría por archivo"
+        ],
+        "category": "Infraestructura"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hablemos",
+    "subtitle": "Abierto a nuevas oportunidades y colaboraciones",
+    "description": "Ya sea que necesites un desarrollador Full Stack, quieras automatizar un workflow o integrar una API compleja — me encantaría escuchar sobre tu proyecto.",
+    "or": "o encuéntrame en"
+  },
+  "footer": {
+    "built_with": "Construido con React & Tailwind",
+    "rights": "Todos los derechos reservados"
+  }
+}

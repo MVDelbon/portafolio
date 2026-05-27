@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "about": "About",
+    "stack": "Stack",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Victoria Delbon",
+    "roles": [
+      "Full Stack Developer",
+      "Automation Engineer",
+      "API Integration Specialist",
+      "AI Workflow Builder"
+    ],
+    "description": "I build scalable web applications, automate complex workflows and integrate powerful APIs — from CRM systems to AI-powered solutions.",
+    "cta_projects": "View Projects",
+    "cta_contact": "Contact Me",
+    "available": "Open to new opportunities"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Builder · Problem Solver · Automation Enthusiast",
+    "p1": "I'm a Full Stack Developer with experience building production-grade web applications across CRM systems, real-time platforms, and AI-integrated tools.",
+    "p2": "My work focuses on connecting backend logic, clean frontend experiences, and intelligent automations — combining Go's performance, React's flexibility, and tools like n8n to automate what can be automated.",
+    "p3": "Currently exploring the intersection of AI agents, workflow orchestration, and modern API ecosystems like Meta and Google Ads.",
+    "highlights": [
+      "Full Stack with React & Go",
+      "Automation with n8n",
+      "API integrations (Meta, Google Ads)",
+      "AI-powered workflows"
+    ],
+    "stat_exp":   "years exp.",
+    "stat_apis":  "API integrations",
+    "stat_langs": "languages"
+  },
+  "stack": {
+    "title": "Tech Stack",
+    "subtitle": "Technologies and tools I work with daily",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Database",
+    "automation": "Automation & Integrations",
+    "ai": "AI & Emerging Tools"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Professional journey",
+    "job_title": "Full Stack Developer",
+    "job_company": "CRM & Web Platform",
+    "job_period": "2024 – Present",
+    "job_description": "Development and maintenance of enterprise web applications using React, Go and SQL Server. Focused on CRM systems, workflow automation and API integrations.",
+    "achievements_title": "Key Achievements",
+    "achievements": [
+      "Built dynamic frontend interfaces and reusable component libraries in React",
+      "Developed backend services and REST APIs in Go with high performance",
+      "Implemented CRM modules with complex business logic and reporting",
+      "Integrated Meta API and Google Ads for automated marketing workflows",
+      "Built n8n automation pipelines connecting 10+ external services",
+      "Developed real-time webchat platform with Go WebSockets",
+      "Implemented file upload and attachment handling systems",
+      "Optimized SQL Server queries reducing response times by up to 60%"
+    ]
+  },
+  "projects": {
+    "title": "What I've Worked On",
+    "subtitle": "Systems and solutions from my professional work — production-grade, internal tools built for real business needs.",
+    "internal_note": "Internal / Enterprise Project",
+    "items": [
+      {
+        "title": "Enterprise CRM Platform",
+        "description": "Full-featured CRM system with custom modules, user roles, pipeline management, activity tracking and reporting dashboards.",
+        "stack": ["React", "Go", "SQL Server", "REST API"],
+        "highlights": [
+          "Custom modules for sales pipeline and contact management",
+          "Role-based access control with multi-tenant support",
+          "Real-time notifications and activity feed",
+          "Advanced reporting with exportable dashboards"
+        ],
+        "category": "CRM System"
+      },
+      {
+        "title": "Marketing API Integration Suite",
+        "description": "Unified dashboard integrating Meta (Facebook/Instagram) and Google Ads APIs for automated campaign management and consolidated reporting.",
+        "stack": ["Go", "React", "Meta API", "Google Ads API", "n8n"],
+        "highlights": [
+          "OAuth 2.0 authentication with Meta and Google",
+          "Automated campaign performance reporting",
+          "n8n workflows for scheduled data sync and alerts",
+          "Unified metrics dashboard across platforms"
+        ],
+        "category": "API Integration"
+      },
+      {
+        "title": "AI Workflow Automation Engine",
+        "description": "Workflow automation platform built on n8n connecting internal systems with LLM-powered processing for automated data classification and decisions.",
+        "stack": ["n8n", "Go", "REST APIs", "LLM APIs"],
+        "highlights": [
+          "15+ custom integration nodes",
+          "LLM-powered data classification and routing",
+          "Event-driven triggers from CRM and external webhooks",
+          "Monitoring dashboard for workflow health and errors"
+        ],
+        "category": "AI Automation"
+      },
+      {
+        "title": "Real-time Webchat Platform",
+        "description": "Embeddable chat widget with Go WebSockets backend, real-time messaging, file attachments and native CRM integration.",
+        "stack": ["Go", "WebSockets", "React", "SQL Server"],
+        "highlights": [
+          "Low-latency WebSocket connections in Go",
+          "Embeddable widget with custom theming",
+          "File and image attachment support",
+          "Chat history linked to CRM contacts"
+        ],
+        "category": "Real-time Platform"
+      },
+      {
+        "title": "File Management System",
+        "description": "Multi-format file upload and management system with metadata extraction, preview generation and per-file access control.",
+        "stack": ["Go", "React", "SQL Server"],
+        "highlights": [
+          "Support for documents, images and structured data files",
+          "Automated metadata extraction and indexing",
+          "Preview generation for common file formats",
+          "Per-file access control and audit trail"
+        ],
+        "category": "Infrastructure Tool"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Talk",
+    "subtitle": "Open to new opportunities and collaborations",
+    "description": "Whether you need a Full Stack developer, want to automate a workflow, or integrate a complex API — I'd love to hear about your project.",
+    "or": "or find me on"
+  },
+  "footer": {
+    "built_with": "Built with React & Tailwind",
+    "rights": "All rights reserved"
+  }
+}
